@@ -1,1 +1,1 @@
-# recipe-app-api Django Project
+# recipe-app-api
